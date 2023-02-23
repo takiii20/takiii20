@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @takiii20
-- 👀 I’m interested in Front-end Development
+- 👀 I’m interested in UI/UX design and Front-end Development
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: trishaanncempron@gmail.com
 
 <!---
